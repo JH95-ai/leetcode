@@ -1,0 +1,4 @@
+﻿  main.cpp
+e:\github_commit\leetcode\13_罗马数字转整数\main.cpp(24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  13_罗马数字转整数.vcxproj -> E:\github_commit\leetcode\x64\Debug\13_罗马数字转整数.exe
+  13_罗马数字转整数.vcxproj -> E:\github_commit\leetcode\x64\Debug\13_罗马数字转整数.pdb (Partial PDB)

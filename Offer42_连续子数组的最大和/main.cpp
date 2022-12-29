@@ -15,8 +15,10 @@ public:
 		int greatnum = 0x80000000;
 		for (int i = 0; i < nums.size(); i++)
 		{
-			if (num<=0) num = nums[i];
-			else num += nums[i];
+			if (num<=0) 
+				num = nums[i];
+			else 
+				num += nums[i];
 			if (num>greatnum)
 			{
 				greatnum = num;

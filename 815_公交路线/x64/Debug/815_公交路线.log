@@ -1,0 +1,4 @@
+﻿  main.cpp
+e:\github_commit\leetcode\815_公交路线\main.cpp(11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  815_公交路线.vcxproj -> E:\github_commit\leetcode\x64\Debug\815_公交路线.exe
+  815_公交路线.vcxproj -> E:\github_commit\leetcode\x64\Debug\815_公交路线.pdb (Partial PDB)

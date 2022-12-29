@@ -1,3 +1,1 @@
-﻿  main.cpp
-E:\github_commit\leetcode\611_有效三角形的个数\main.cpp(10,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-  611_有效三角形的个数.vcxproj -> E:\github_commit\leetcode\x64\Debug\611_有效三角形的个数.exe
+﻿  611_有效三角形的个数.vcxproj -> E:\github_commit\leetcode\x64\Debug\611_有效三角形的个数.exe

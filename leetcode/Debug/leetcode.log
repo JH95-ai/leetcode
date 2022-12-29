@@ -1,0 +1,4 @@
+﻿  two_num.cpp
+e:\vs_code\vs_c++_code\leetcode\leetcode\two_num.cpp(25): warning C4101: “j”: 未引用的局部变量
+e:\vs_code\vs_c++_code\leetcode\leetcode\two_num.cpp(25): warning C4101: “i”: 未引用的局部变量
+  leetcode.vcxproj -> E:\vs_code\vs_c++_code\leetcode\Debug\leetcode.exe
